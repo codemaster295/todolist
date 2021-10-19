@@ -64,7 +64,7 @@ const ToDoItems: FC = () => {
           className={styles.clearButton}
           onClick={(): any => clearToDoCompleted()}
         >
-          clear completed
+          clear completed todo
         </button>
       </div>
     </>
